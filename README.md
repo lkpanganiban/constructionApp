@@ -16,4 +16,3 @@ The main presentation can be found [here:](http://lkpanganiban.github.io/foss4g2
 
  * [Charmyne Mamador](https://github.com/chamthesleeptalker)
  * [Luis Caezar Ian Panganiban](https://github.com/lkpanganiban)
- * Ben Hur Pintor
