@@ -12,6 +12,9 @@ The main presentation can be found [here:](http://lkpanganiban.github.io/foss4g2
  * Main Application
 ![screenshot1](readme_pics/constructionApp.png)
 
+### Demo
+The demo app can be found [here:](http://lkpanganiban.github.io/constructionApp/)
+
 ### Developed by:
 
  * [Charmyne Mamador](https://github.com/chamthesleeptalker)
